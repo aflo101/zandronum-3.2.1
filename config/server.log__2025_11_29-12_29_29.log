@@ -1,0 +1,42 @@
+[12:29:29] Log started: /home/zandronum/config/server.log__2025_11_29-12_29_29.log, Sat Nov 29 12:29:29 2025
+[12:29:29] I_Init: Setting up machine state.
+[12:29:29] CPU Vendor ID: GenuineIntel
+[12:29:29]   Name: 12th Gen Intel(R) Core(TM) i9-12900HK
+[12:29:29]   Family 6, Model 154, Stepping 3
+[12:29:29]   Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2
+[12:29:29] Using in-memory database. The database will not be saved on exit.
+[12:29:29] IPFileParser::parseIPList: could not open adminlist.txt: No such file or directory
+[12:29:29] IPFileParser::parseIPList: could not open whitelist.txt: No such file or directory
+[12:29:29] IPFileParser::parseIPList: could not open banlist.txt: No such file or directory
+[12:29:29] S_Init: Setting up sound.
+[12:29:29] ST_Init: Init startup screen.
+[12:29:29] Checking cmd-line parameters...
+[12:29:29] Can't find map MAP01
+[12:29:29] S_InitData: Load sound definitions.
+[12:29:29] G_ParseMapInfo: Load map definitions.
+[12:29:29] Texman.Init: Init texture manager.
+[12:29:29] ParseTeamInfo: Load team definitions.
+[12:29:29] LoadActors: Load actor definitions.
+[12:29:29] R_Init: Init Chex refresh subsystem.
+[12:29:29] DecalLibrary: Load decals.
+[12:29:29] PWO_Init: Initializing preferred weapon order.
+[12:29:29] M_Init: Init menus.
+[12:29:29] P_Init: Init Playloop state.
+[12:29:29] ParseSBarInfo: Loading default status bar definition.
+[12:29:29] ParseSBarInfo: Loading custom status bar definition.
+[12:29:29] ParseScorInfo: Loading scoreboard definition.
+[12:29:29] D_CheckNetGame: Checking network game status.
+[12:29:29] using alternate port 10667
+[12:29:29] player 1 of 1 (1 nodes)
+[12:29:29] Initializing network subsystem.
+[12:29:29] Server using alternate port 10667.
+[12:29:29] IP address 172.17.0.2:10667
+[12:29:29] GeoIP initialization failed.
+[12:29:29] UDP Initialized.
+[12:29:34] NAT discovery error: Fail to find an UPNP NAT.
+[12:29:34] 
+[12:29:34] No map MAP01
+[12:29:34] 
+[12:29:34] *** E1M1: Landing Zone ***
+[12:29:34] 
+[12:29:34] ACS scripts unloaded.
