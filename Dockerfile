@@ -68,6 +68,7 @@ ENV Z_MAXLIVES=0
 ENV Z_MAXCLIENTS=8
 ENV Z_MAXPLAYERS=8
 ENV Z_DMFLAGS=4
+ENV Z_DMFLAGS2=0
 ENV Z_HOSTNAME="FloMedia Doom2 Co-op"
 ENV Z_PASSWORD=""
 ENV Z_JOINPASSWORD=""
@@ -107,7 +108,7 @@ CMD ["/bin/sh", "-c", "exec /home/zandronum/zandronum-server \
   +sv_maxplayers \"$Z_MAXPLAYERS\" \
   -upnp \
   +dmflags \"$Z_DMFLAGS\" \
-  +dmflags2 0 \
+  +dmflags2 \"$Z_DMFLAGS2\" \
   +zadmflags 0 \
   +compatflags 0 \
   +zacompatflags 0 \
